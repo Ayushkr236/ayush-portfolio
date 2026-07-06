@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Ayush Kumar
+## 📸 Portfolio Preview
+
+![Portfolio Preview](assets/images/portfolio-home.png)
 
 <h3 align="center">
 Python Developer • Machine Learning Enthusiast • Data Science
